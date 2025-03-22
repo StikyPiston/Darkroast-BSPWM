@@ -4,7 +4,7 @@
     "author": "StikyPiston",
     "dependencies": {
         "apt": ["nala", "bspwm", "polybar", "nitrogen", "sxhkd", "plank", "lxpolkit", "mpd", "ncmpcpp", "dunst", "picom", "qutebrowser", "rofi", "neofetch", "cbonsai", "kitty", "micro"],
-        "dnf": ["bspwm", "polybar", "nitrogen", "sxhkd", "plank", "lxpolkit", "mpd", "ncmpcpp", "dunst", "picom", "qutebrowser", "rofi", "neofetch", "cbonsai", "kitty", "micro"],
+        "dnf": ["bspwm", "polybar", "nitrogen", "sxhkd", "plank", "lxpolkit", "mpd", "ncmpcpp", "dunst", "picom", "qutebrowser", "rofi", "neofetch", "cbonsai", "kitty", "micro"]
     },
     "files": [
         { "src": "config/bspwm/bspwmrc", "dest": "~/.config/bspwm/bspwmrc" },
@@ -28,6 +28,6 @@
         { "src": "bin/gladosay", "dest": "~/.local/bin/gladosay" },
         { "src": "bin/glados_quotes.txt", "dest": "~/.local/bin/glados_quotes.txt" },
         { "src": "bin/powermenu_bsp", "dest": "~/.local/bin/powermenu_bsp" },
-        { "src": "bin/stikyfetch", "dest": "~/.local/bin/stikyfetch" },
+        { "src": "bin/stikyfetch", "dest": "~/.local/bin/stikyfetch" }
     ]
 }
