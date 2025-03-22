@@ -3,8 +3,8 @@
     "version": "1.3",
     "author": "StikyPiston",
     "dependencies": {
-        "apt": ["nala", "bspwm", "polybar", "nitrogen", "sxhkd", "plank", "lxpolkit", "mpd", "ncmpcpp", "dunst", "picom", "qutebrowser", "rofi", "neofetch", "cbonsai", "kitty"],
-        "dnf": ["bspwm", "polybar", "nitrogen", "sxhkd", "plank", "lxpolkit", "mpd", "ncmpcpp", "dunst", "picom", "qutebrowser", "rofi", "neofetch", "cbonsai", "kitty"],
+        "apt": ["nala", "bspwm", "polybar", "nitrogen", "sxhkd", "plank", "lxpolkit", "mpd", "ncmpcpp", "dunst", "picom", "qutebrowser", "rofi", "neofetch", "cbonsai", "kitty", "micro"],
+        "dnf": ["bspwm", "polybar", "nitrogen", "sxhkd", "plank", "lxpolkit", "mpd", "ncmpcpp", "dunst", "picom", "qutebrowser", "rofi", "neofetch", "cbonsai", "kitty", "micro"],
     },
     "files": [
         { "src": "config/bspwm/bspwmrc", "dest": "~/.config/bspwm/bspwmrc" },
