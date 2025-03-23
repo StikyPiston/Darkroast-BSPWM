@@ -18,3 +18,6 @@ My personal rice for BSPWM and others! Includes Catppuccin :3
 - Copy all the files to their respective places
 - All the files in `config` go to `~/.config`, files in `bin` go to `~/.local/bin`, and the MPD config in `home` goes to `~/.mpd/`, and the tmux.conf is `~/.tmux.conf`
 - Follow the MD file to continue, and add ~/.local/bin to PATH.
+
+
+![darkroast_use](https://github.com/user-attachments/assets/8a2c1cff-ccf1-4657-98e6-2ece6393aaf9)
