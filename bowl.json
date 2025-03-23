@@ -28,6 +28,9 @@
         { "src": "bin/gladosay", "dest": "~/.local/bin/gladosay" },
         { "src": "bin/glados_quotes.txt", "dest": "~/.local/bin/glados_quotes.txt" },
         { "src": "bin/powermenu_bsp", "dest": "~/.local/bin/powermenu_bsp" },
-        { "src": "bin/stikyfetch", "dest": "~/.local/bin/stikyfetch" }
+        { "src": "bin/stikyfetch", "dest": "~/.local/bin/stikyfetch" },
+        { "src"; "home/mpd.conf", "dest": "~/.mpd/mpd.conf" },
+        { "src"; "home/tmux.conf", "dest": "~/.tmux.conf" },
+        { "src"; "home/FINAL-SETUP.md", "dest": "~/FINAL-SETUP.md" }
     ]
 }
